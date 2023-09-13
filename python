@@ -1,0 +1,4 @@
+#Erstes Python Projekt:
+print("\n") #Zeile freilasseb
+print("Das hier ist der Start zu meinem ersten ernsteren Projekt.")
+print("Hierbei geht es nur darum, meine Berührungspunkte mit Python zu verfestigen.") 
